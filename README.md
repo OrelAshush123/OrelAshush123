@@ -2,7 +2,7 @@
 - 👀 I’m interested in anime,video games and progrming,
 - 🌱 I’m currently learning react js 
 - 🗣️ I'm speak hebrew and english
-- 🤓 I'm know c, c#, c++, python, java, web, php, react, and BF ;) .
+- 🤓 I'm know c, c#, c++, python, java, web,jquery, php, react, and BF ;) .
 - 💞️ I’m looking to collaborate on null
 - 📫 you can reach me at my email (orel.asc11@gmail.com)
 
