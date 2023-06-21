@@ -2,7 +2,7 @@
 - 👀 I’m interested in anime,video games and progrming,
 - 🌱 I’m currently learning Bachelor of Science in Computer Science 
 - 🗣️ I'm speaking hebrew and english
-- 🤓 I know c, c#, c++, python, java, go, web, jquery, php, react, and BF ;) .
+- 🤓 I know c, c#, c++, python, ipython, java, go, web, jquery, php, react, and BF ;) .
 - 💞️ I’m looking to collaborate on null
 - 📫 you can reach me at my email or discord (orel.asc11@gmail.com) (Orel Ashush#3656)
 
